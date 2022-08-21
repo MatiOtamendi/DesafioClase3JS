@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.body {
+  background-color: blueviolet;
+  background-image: url(../fondocoder.webp);
+  background-size: cover;
+}
+.h1 {
+    margin: 10px;
+  color: aquamarine;
+  text-align: center;
+}
+.h2 {
+  color: blueviolet;
+  text-align: center;
+  text-decoration: underline;
+}
+.instrucciones {
+  color: cadetblue;
+  text-align: justify;
+  font-size: 18px;
+  margin-left: 35px;
+}
